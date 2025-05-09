@@ -1,6 +1,5 @@
 # sales-reporting-with-excel
 
-
 ## 📊 Corporate Sales Dataset Analysis
 
 This project contains an Excel-based analysis of a corporate sales dataset. It serves as an example of how raw transactional data can be transformed into actionable business insights using Microsoft Excel.
